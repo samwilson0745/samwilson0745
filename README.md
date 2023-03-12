@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Soham Deb Majumder</h1>
 <h3 align="center">A passionate Full Stack Developer, learning and innovating new things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samwilson0745&label=Profile%20views&color=0e75b6&style=flat" alt="samwilson0745" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samwilson0745" alt="samwilson0745" /></a> </p>
-
-- 🔭 Looking to work on **Different Projects**
+- 🔭 Looking to work on **Live Projects**
 
 - 🌱 I’m currently learning **Machine Learning and Blockchain**
 
-- 👨‍💻 All of my projects are available at [github.com/samwilson0745/](github.com/samwilson0745/)
+- 👨‍💻 All of my projects are available at my github profile
 
-- 💬 Ask me about **Flutter, Java, Python, React, Machine Learning and Node**
+- 💬 Ask me about **Flutter, Java, Python, Django, React, Machine Learning and Node**
 
 - 📫 How to reach me **sohamdeb0745@gmail.com**
 
