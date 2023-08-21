@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter, Java, Python, Django, React, Machine Learning and Node**
 
-- 📫 How to reach me **sohamdeb0745@gmail.com**
+- 📫 How to reach me **sohamdebmajumder@gmail.com**
 
 - ⚡ Fun fact **Life Span of a website is just 3 years**
 
