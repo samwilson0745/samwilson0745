@@ -3,11 +3,11 @@
 
 - 🔭 Looking to work on **Live Projects**
 
-- 🌱 I’m currently learning **Machine Learning and Blockchain**
+- 🌱 I’m currently learning **Machine learning and Cloud**
 
 - 👨‍💻 All of my projects are available at my github profile
 
-- 💬 Ask me about **Flutter, Java, Python, Django, React, Machine Learning and Node**
+- 💬 Ask me about **Flutter, Java, Node, Docker, K8's, React, Machine Learning**
 
 - 📫 How to reach me **sohamdebmajumder@gmail.com**
 
