@@ -7,7 +7,7 @@
 
 ### I am Soham Deb Majumder, a passionate software developer, learning and innovating!
 
-- 🔭 Looking to work on **Live Projects** and **Personal Projects**
+- 🔭 Looking to work on **Live Projects**
 
 - 🌱 I’m currently learning **Backend, Machine learning and Cloud**
 
