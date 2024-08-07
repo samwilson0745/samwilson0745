@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Soham Deb Majumder</h1>
-<h3 align="center">A passionate Full Stack Developer, learning and innovating new things.</h3>
+<h1 align="center">Hey there </h1>
+![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+<h3 align="center">A passionate Software Develop, learning and innovating new things.</h3>
 
 - 🔭 Looking to work on **Live Projects**
 
