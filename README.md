@@ -1,6 +1,7 @@
-<h1 align="center">Hey there </h1>
-![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
-<h3 align="center">A passionate Software Develop, learning and innovating new things.</h3>
+
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+
+<h3 align="center">I am Soham Deb Majumder, a passionate software developer, learning and innovating!</h3>
 
 - 🔭 Looking to work on **Live Projects**
 
